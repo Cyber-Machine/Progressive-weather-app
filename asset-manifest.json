@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/progressive-weather-app/static/css/main.be0c2b75.css",
-    "main.js": "/progressive-weather-app/static/js/main.9783f4ca.js",
-    "static/media/Image.jpg": "/progressive-weather-app/static/media/Image.cec7b37bf3df8c7fb0c5.jpg",
-    "index.html": "/progressive-weather-app/index.html",
-    "main.be0c2b75.css.map": "/progressive-weather-app/static/css/main.be0c2b75.css.map",
-    "main.9783f4ca.js.map": "/progressive-weather-app/static/js/main.9783f4ca.js.map"
+    "main.css": "/Progressive-weather-app/static/css/main.d0212588.css",
+    "main.js": "/Progressive-weather-app/static/js/main.9783f4ca.js",
+    "static/media/Image.jpg": "/Progressive-weather-app/static/media/Image.cec7b37bf3df8c7fb0c5.jpg",
+    "index.html": "/Progressive-weather-app/index.html",
+    "main.d0212588.css.map": "/Progressive-weather-app/static/css/main.d0212588.css.map",
+    "main.9783f4ca.js.map": "/Progressive-weather-app/static/js/main.9783f4ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.be0c2b75.css",
+    "static/css/main.d0212588.css",
     "static/js/main.9783f4ca.js"
   ]
 }
